@@ -1,4 +1,4 @@
-# sun-position 🌄
+# sun-position
 [![License](https://img.shields.io/github/license/Jeremy38100/sun-position)](LICENSE)
 [![Version](https://img.shields.io/npm/v/sun-position.svg)](https://www.npmjs.com/package/sun-horizon)
 [![Build Status](https://travis-ci.org/Jeremy38100/sun-position.svg?branch=master)](https://travis-ci.org/Jeremy38100/sun-position)
@@ -56,19 +56,19 @@ import { getPositionAtAzimuth } from 'sun-position';
 
 ## Functions
 
-## 🕰 `getPositionAtTime`
+### 🕰 `getPositionAtTime`
 
 ```ts :
 getPositionAtTime(origin: LatLng, date: string, time: string): SunPosition
 ```
 
-## 🧭 `getPositionAtAzimuth`
+### 🧭 `getPositionAtAzimuth`
 
 ```ts :
 getPositionAtAzimuth(origin: LatLng, date: string, azimuth: number): SunPosition
 ```
 
-## 📐 `getPositionsAtAngle`
+### 📐 `getPositionsAtAngle`
 
 ```ts
 getPositionsAtAngle(origin: LatLng, date: string, angle: number): SunPosition[]
