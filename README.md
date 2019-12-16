@@ -10,7 +10,7 @@ To calculate sun position you can play with 5 members :
  - 🧭 Azimuth
  - 📐 Angle
 
-This tool let you calcule this 5 members from **Location**, **Day** and **one of the 3 others** (See [Functions](#Functions))
+This module calculates this 5 members from **Location**, **Day** and **one of the 3 others** (See [Functions](#Functions))
 
 ## ☕️ Support
 <a href="https://www.buymeacoffee.com/jOVt3wg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="42" ></a>
@@ -21,7 +21,7 @@ This tool let you calcule this 5 members from **Location**, **Day** and **one of
 
 ## 🏃‍♂️ Usage
 
-💻 This module supports __javascript__ or __typescirpt__.
+This module supports __javascript__ or __typescirpt__.
 
 ```js
 const sunPosition = require('sun-position');
