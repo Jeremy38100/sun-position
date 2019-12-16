@@ -1,0 +1,41 @@
+{
+  "name": "sun-position",
+  "version": "1.0.0",
+  "description": "Ultimate sun position calculator",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha -r ts-node/register test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremy38100/sun-position.git"
+  },
+  "keywords": [
+    "sun",
+    "calculation",
+    "position",
+    "azimuth",
+    "angle",
+    "date",
+    "time",
+    "positon",
+    "latitude",
+    "longitude"
+  ],
+  "author": "Jeremy38100",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jeremy38100/sun-position/issues"
+  },
+  "homepage": "https://github.com/Jeremy38100/sun-position#readme",
+  "devDependencies": {
+    "@types/chai": "^4.2.7",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "ts-node": "^8.5.4",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.3"
+  }
+}
