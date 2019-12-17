@@ -13,8 +13,8 @@ To calculate sun position you can play with 5 members :
 This module calculates this 5 members from **Location**, **Day** and **one of the 3 others** (See [Functions](#Functions))
 
 ## ☕️ Support
-<a href="https://www.buymeacoffee.com/jOVt3wg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="42" ></a>
-<a href="https://www.paypal.me/Jeremy38100" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_200x51.png" height="42" alt="PayPal"></a>
+<a href="https://www.buymeacoffee.com/jOVt3wg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="24" ></a>
+<a href="https://www.paypal.me/Jeremy38100" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_200x51.png" height="24" alt="PayPal"></a>
 
 ## 🏁 Install
 `npm install sun-position`
