@@ -94,7 +94,7 @@ Trasnit(Sun) = 12h (solar time). The hour angle
 
 We can find :
 
-<img src="https://latex.codecogs.com/gif.latex?J_\text{transit} = J_{2000} + J_0 + l_\text{w} \frac{J_3}{360°} + J_1 \sin M + J_2 \sin(2 L_\text{sun}) \pmod{J_3} \label{eq:Jdoor}">
+<img src="https://latex.codecogs.com/gif.latex?J_\text{transit}%20=%20J_{2000}%20+%20J_0%20+%20l_\text{w}%20\frac{J_3}{360%C2%B0}%20+%20J_1%20\sin%20M%20+%20J_2%20\sin(2%20L_\text{sun})%20\pmod{J_3}%20\label{eq:Jdoor}">
 
 Where :
 
